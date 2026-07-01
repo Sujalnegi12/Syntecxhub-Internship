@@ -35,12 +35,13 @@ This project is an interactive **Sales Performance Dashboard** built using **Mic
 
 ```
 Sales-Performance-Dashboard/
-│── Sales Performance Dashboard.pbix
-│── Sales_Dataset.xlsx
-│── README.md
-│── screenshots/
+│── Screenshots/
 │   ├── Dashboard.png
 │   └── Forecast.png
+│── README.md
+│── SuperStore_Sales_Dataset.csv
+│── Superstore_Sales_Dashboard_SujalNegi.pbix
+
 ```
 
 ## 📊 Key KPIs
@@ -49,10 +50,24 @@ Sales-Performance-Dashboard/
 - Total Orders
 - Average Order Value
 
+## 💡 Business Insights
 
+- Technology category generated the highest sales.
+- The West region recorded the highest overall sales.
+- Some categories showed lower profitability despite good sales.
+- Monthly sales trends indicate seasonal fluctuations.
+- The 15-day sales forecast predicts stable future sales.
+- Interactive filters help analyze sales by region, category, and time period.
+  
 ## 📸 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard inside the `screenshots` folder.
+### Dashboard 1
+![Dashboard 1](Screenshots/Dashboard..png)
+
+### Dashboard 2
+![Dashboard 2](Screenshots/Forecast.png)
+
+
 
 ## 💡 Business Insights
 - Identified top-performing products and categories.
@@ -68,6 +83,6 @@ Sales-Performance-Dashboard/
 - Advanced DAX measures
 
 
-## 👨‍💻 Author
+## 👨‍💻 Project By
 
 **Sujal Singh Negi**
